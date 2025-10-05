@@ -1,1 +1,49 @@
-/main.cpp/
+# Proprietary source code - do not commit
+main.cpp
+main_backup-2.ino
+main_backup*.ino
+*.ino
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# C/C++
+*.o
+*.exe
+*.out
+*.obj
+*.dll
+*.so
+*.dylib
+a.out
+et0_calculator
+sensor_simulator
+decision_logic
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
