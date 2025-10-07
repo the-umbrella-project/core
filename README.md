@@ -1,5 +1,7 @@
 # The Umbrella Project - Core
 
+https://github.com/user-attachments/assets/4e026476-d13c-48b1-8e27-3bbbfdf65598
+
 Smart irrigation system using advanced environmental intelligence and Penman-Monteith evapotranspiration modeling.
 
 ## Development Status
